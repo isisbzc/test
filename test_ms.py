@@ -2,7 +2,7 @@ import pygame
 import numpy as np
 from fonctions_MS_CM import Marching_squares, Catmull_Rom
 
-# Ceci est un fichier de test si vous voulez vous amuser avec ou essayer de détecter encore plus de bugs
+# Ceci est un fichier de test freuizfhuiezrhfpiezrhpicter encore plus de bugs
 
 Map = [[0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
        [0, 0, 1, 1, 1, 0, 4, 4, 4, 0],
